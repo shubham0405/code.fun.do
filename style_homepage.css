@@ -1,0 +1,73 @@
+
+#container{
+    background-image:url('hmepge_bckgrd.jpg');
+    background-color: tomato;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+header{
+    background-color:gainsboro;
+    text-align: center;
+    font-style:italic;
+    font-weight:bold;
+
+}
+footer{
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    color:black;
+    background-color:#EEEEEE;
+    list-style-type: circle;
+}
+a.class1:link{
+    text-decoration: none;
+    color:brown;
+}
+a.class1:visited{
+    color: brown;
+}
+a.class1:hover{
+    color:green;
+    font-size:20px;
+
+}
+A.class2:link{
+    text-decoration: none;
+    color:black;
+}
+A.class2:visited{
+    color: black;
+}
+A.class2:hover{
+    color:red;
+    font-size:20px;
+    border-width: 2px;
+    border-radius: 8px;
+    border-style: inset;
+    border-color:black;
+}
+a.class3:link{
+    text-decoration: none;
+    color:purple;
+}
+a.class3:visited{
+    color: purple;
+}
+a.class3:hover{
+    color: darkblue;
+    font-size:20px;
+    border-style:inset;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: purple;
+    
+}
+#menu li{
+display: inline;
+padding-right: 50px;
+
+}
+
+
